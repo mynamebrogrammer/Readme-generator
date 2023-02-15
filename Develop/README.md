@@ -1,11 +1,11 @@
 
-# Habib's Readme generator
+# Professional README Generator
 
 [![MIT license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-To easily create a readme file for any project I am working on. 
+a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ To easily create a readme file for any project I am working on.
 - [License](#license)
 ## Installation
 
-User must have inquirer 8.2.4 installed.
+Ensure inquirer 8.2.4 is installed
 
 ## Usage
 
-Run into your command line: node index
+The application will be invoked by using: node index.js
 
 ## Contributing
 
